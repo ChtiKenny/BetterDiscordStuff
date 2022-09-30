@@ -48,6 +48,12 @@ module.exports = (() => {
 					github_username: "CarJem",
 					twitter_username: "carter5467_99"
 				}
+				{
+					name: "CKenny",
+					discord_id: "1025320689709887508",
+					github_username: "ChtiKenny",
+					twitter_username: "ChtiKenny"
+				}
 			],
 			version: "2.6.1",
 			description: "Allows you to have multiple tabs and bookmark channels",
